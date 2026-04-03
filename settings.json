@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "NovaCS_BOT_STAFF",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "NovaCS_STAFF.aternos.me",
