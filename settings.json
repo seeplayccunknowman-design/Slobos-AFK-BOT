@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "NovaCS_BOT_STAFF",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "NovaCS_STAFF.aternos.me",
+    "port": 48578,
     "version": "1.21.1"
   },
   "position": {
